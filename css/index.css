@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: rgb(89, 250, 175);
+}
+.form-row {
+margin-bottom: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.form-row label {
+    display: inline-block;
+    width: 200px;
+    text-align: right;
+    margin-right: 10px;
+}
+.form-row input {
+    width: 200px;
+    padding: 4px;
+}
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #700f5b;
+}
+.card{
+    margin-top: 20px;
+    background-color: rgba(238, 235, 237, 0.658);
+    padding: 24px;
+    border-radius: 8px;
+}
+button{
+    background-color: blue;
+    font-size: large;
+    
+}
